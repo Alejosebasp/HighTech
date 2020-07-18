@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorTextDark">#58506B</color>
+    <color name="colorTextLight">#FFFFFF</color>
+    <color name="backgroundCV">#54D1ED</color>
+    <color name="background">#F8F8FC</color>
+    <color name="bad_rend">#E33D3D</color>
+    <color name="textSecondary">#817699</color>
+    <color name="accent_progress">#41CF69</color>
+    <color name="colorTextGray">#A99DC6</color>
+</resources>

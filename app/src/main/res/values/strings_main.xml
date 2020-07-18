@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo">Hola, Camila</string>
+    <string name="estratega">Eres \nestratega</string>
+    <string name="tu_saldo">Tu saldo</string>
+    <string name="saldo">$1.570.000</string>
+    <string name="inversion">Inversión</string>
+    <string name="rendimiento">Rendimiento</string>
+    <string name="val_inversion">$1.600.000</string>
+    <string name="val_rendimiento">-$30.000</string>
+    <string name="metas">Tus metas</string>
+    <string name="tituloportafolio">Conoce tu portafolio</string>
+    <string name="leyen_portafolio">Tu  dinero se invierte de la
+        forma más eficiente de acuerdo al perfil de riesgo asignado
+        por nuestro RoboAdvisor.</string>
+    <string name="roboAdvisor">RoboAdvisor</string>
+    <string name="fondos">10 Fondos</string>
+    <string name="FicOld">FIC Old Mutual Efectivo</string>
+    <string name="valor_portafolio">$240.000</string>
+    <string name="tipoActivo">Tipo de activo</string>
+    <string name="rentaFija">Renta fija\nDeposito a la fija</string>
+    <string name="losPutos">Los p*t@s del ahorro</string>
+    <string name="tituloVideo">Esto es AHORRO</string>
+    <string name="descripVideo">Conoce como nuestro RoboAdvisor
+        crea el mejor portafolio de inversión para ti.</string>
+
+</resources>
